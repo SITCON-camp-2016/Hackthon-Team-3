@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SITCON-camp-2016/Hackthon-Team-3#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.3",
     "express": "^4.14.0",
     "passport": "^0.3.2",
     "passport-facebook": "^2.1.1",
