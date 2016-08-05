@@ -1,0 +1,45 @@
+div{
+  background-color:#886600;
+  height:100%;
+}
+h{
+  font-size:1000%;
+  color:white;
+  text-shadow:0px 0px 50px white;
+  font-family: Microsoft JhengHei;
+}
+input{
+  width :50%;
+  text-align:center;
+  font-size:300%;
+  transition:1s;
+  border-radius:40%;
+}
+
+input:hover{
+  background-color:#666666;
+}
+input:focus{
+  box-shadow:0px 0px 50px white;
+  background-color:#FFFFBB;
+  font-size:500%;
+  width:60%;
+}
+.se{
+  font-size:200%;
+  width:20%;
+  transition:0.5s;
+  border-radius:40%;
+  font-family: Microsoft JhengHei;
+}
+.se:hover{
+  background-color:#FFBB00;
+  box-shadow:0px 0px 50px white;
+  text-shadow:0px 0px 50px #7700BB;
+  font-size:500%;
+  width:60%;
+  font-weight:700;
+}
+a{
+  font-size: 100%;
+}

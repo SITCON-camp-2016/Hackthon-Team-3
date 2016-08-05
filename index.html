@@ -4,38 +4,33 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="static/style.css">
 	<meta charset="utf-8">
 	<script src="https://code.jquery.com/jquery-2.2.4.js" integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI=" crossorigin="anonymous"></script>
-	<script src="text.js"></script>
+	<script src="static/text.js"></script>
+
+</head>
 <body>
+	<a href="/auth/facebook"> Login to Facebook! </a>
 	<div>
           <form id="pro">
             <center><h>發票號碼</h></center>
-            <center><br><input type="text" name="code"><br><br><br>
-            <input  class="se" type="submit" value="送出" >
+            <center><br><input id="cc" type="text" name="code" val=""><br><br><br>
+            <!-- <input  id="snd" class="se" type="submit" value="送出" > -->
+            <button id="snd" class="btn btn-lg" role="btn"> 送出 </button> 
 			</center>
-          </form>
-        </div>
-	
-	<div class="a">回傳</div>
-		
-		
-	   
-	
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	</body>
-</head>
+		</form>
+		<center>
+			<button id="par" class="btn btn-lg" role="btn"> PARSE! </button>	
+		</center>
+	</div>
+	<script type="text/javascript">
+		$('#snd').click(function(){
+			$.post('/append/'+ document.getElementById("cc").value);
+		});
+		$('#par').click(function(){
+			$.post('/parse');
+		});
+	</script>
+</body>
 </html>

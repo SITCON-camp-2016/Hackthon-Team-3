@@ -1,14 +1,18 @@
 var express = require('express');
+var request = require('request');
 var fs = require('fs');
 var passport = require('passport')
   , FacebookStrategy = require('passport-facebook').Strategy;
-var cookieParser = require('cookie-parser') 
+var cookieParser = require('cookie-parser'); 
 var app = express();
 var ID = "0";
+var cheerio = require('cheerio');
+var readlineSync = require('readline-sync');
 
-app.use(cookieParser())
-app.use('/static',express.static(__dirname));
+app.use(cookieParser());
+app.use('/static',express.static(__dirname+'/static'));
 
+//my ID : 1388002237882339
 
 passport.use(new FacebookStrategy({
     clientID: 1742952685970599,
@@ -20,10 +24,10 @@ passport.use(new FacebookStrategy({
   	// console.log(JSON.stringify(profile));
   	ID = profile.id;
   	console.log(ID);
-   //  User.findOrCreate(function(err, user) {
-	  // if (err) { return done(err); }
-   //    done(null, user);
-   //  });
+     // User.findOrCreate({ facebookId:profile.id }, function(err, user) {
+	 // if(err) { return done(err); }
+        // done(null, user);
+   	 // });
 	done(null);
   }
 ));
@@ -41,6 +45,66 @@ app.get('/auth/facebook', passport.authenticate('facebook'));
 app.get('/auth/facebook/callback',
   passport.authenticate('facebook', { successRedirect: '/',
                                       failureRedirect: '/' }));
+app.post('/append/:code', function(req, res) {
+	console.log("appendFile");
+	fs.appendFile(__dirname + '/static/Receipt', req.params.code + '\n' ,'UTF-8', function(err){
+		if(err){
+			console.log("Append fail!");
+		}
+	})
+})
+
+app.post('/parse', function(req, res) {
+	var code_arr = [];
+	var my_code = [];
+	request('http://invoice.etax.nat.gov.tw/', function (error, response, html) {
+		if (!error && response.statusCode == 200) {
+			var $ = cheerio.load(html);
+			$(".t18Red").each(function(i, element) {
+				// console.log($(element).text());
+				code_arr.push($(element).text());
+				res = []; 
+				res.push(i.textContent);
+			});                                                                                                               
+			// console.log($($("h2")['1']).text());
+			// console.log($($("h2")['3']).text());
+		}
+		console.log("#############");
+			
+
+		}, function(error, response, html) {
+
+		});
+		//讀取發票記錄檔
+		var lineReader = require('readline').createInterface({
+			input: require('fs').createReadStream(__dirname + '/static/Receipt')
+		});
+		console.log("!!!!!!!!!");
+		lineReader.on('line', function (line) {
+			console.log('Line from file:', line);
+			my_code.push(line);
+		});
+		// console.log("?????????");
+		// while(my_code.length<2){
+		// 	console.log("size=" + my_code.length);
+		// }
+		// console.log("AAAAAAAAA");
+
+		console.log(code_arr.length);
+		for(var i=0;i<code_arr.length;i++){
+			console.log(i, code_arr[i]);
+		}
+
+		console.log("特獎 : " + code_arr[0]);
+		console.log(my_code.length);
+		//對特獎
+		for(var i = 0; i<my_code.length ;i++){
+			console.log("my_code = " + my_code[i]);
+			if(my_code[i].valueOf() === code_arr[0].valueOf()){
+				console.log("中特獎！");
+			}
+		}
+})
 
 app.get('/', function(req, res) {
 	if(ID!="0"){
