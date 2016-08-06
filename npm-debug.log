@@ -1,0 +1,1718 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'ssh' ]
+2 info using npm@2.15.8
+3 info using node@v4.4.7
+4 verbose install initial load of C:\Users\max\Desktop\Hackthon-Team-3\package.json
+5 warn package.json auth@1.0.0 No description
+6 warn package.json auth@1.0.0 No README data
+7 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\abab\package.json
+8 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\accepts\package.json
+9 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\acorn\package.json
+10 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\acorn-globals\package.json
+11 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\amdefine\package.json
+12 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ansi-regex\package.json
+13 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ansi-styles\package.json
+14 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\array-flatten\package.json
+15 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\asn1\package.json
+16 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\assert-plus\package.json
+17 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\async\package.json
+18 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\aws-sign2\package.json
+19 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\aws4\package.json
+20 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\bl\package.json
+21 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\boolbase\package.json
+22 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\boom\package.json
+23 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\caseless\package.json
+24 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\chalk\package.json
+25 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\cheerio\package.json
+26 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\combined-stream\package.json
+27 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\commander\package.json
+28 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\content-disposition\package.json
+29 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\content-type\package.json
+30 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\cookie\package.json
+31 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\cookie-parser\package.json
+32 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\cookie-signature\package.json
+33 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\core-util-is\package.json
+34 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\cryptiles\package.json
+35 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\css-select\package.json
+36 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\css-what\package.json
+37 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\cssom\package.json
+38 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\cssstyle\package.json
+39 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\dashdash\package.json
+40 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\debug\package.json
+41 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\deep-is\package.json
+42 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\delayed-stream\package.json
+43 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\depd\package.json
+44 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\destroy\package.json
+45 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\dom-serializer\package.json
+46 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\domelementtype\package.json
+47 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\domhandler\package.json
+48 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\domutils\package.json
+49 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ecc-jsbn\package.json
+50 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ee-first\package.json
+51 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\encodeurl\package.json
+52 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\entities\package.json
+53 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\escape-html\package.json
+54 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\escape-string-regexp\package.json
+55 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\escodegen\package.json
+56 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\esprima\package.json
+57 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\estraverse\package.json
+58 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\esutils\package.json
+59 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\etag\package.json
+60 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\express\package.json
+61 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\extend\package.json
+62 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\extsprintf\package.json
+63 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\fast-levenshtein\package.json
+64 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\finalhandler\package.json
+65 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\forever-agent\package.json
+66 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\form-data\package.json
+67 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\forwarded\package.json
+68 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\fresh\package.json
+69 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\generate-function\package.json
+70 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\generate-object-property\package.json
+71 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\getpass\package.json
+72 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\graceful-readlink\package.json
+73 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\har-validator\package.json
+74 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\has-ansi\package.json
+75 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\hawk\package.json
+76 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\hoek\package.json
+77 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\htmlparser2\package.json
+78 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\http-errors\package.json
+79 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\http-signature\package.json
+80 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\inherits\package.json
+81 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ipaddr.js\package.json
+82 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\is-my-json-valid\package.json
+83 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\is-property\package.json
+84 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\is-typedarray\package.json
+85 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\isarray\package.json
+86 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\isstream\package.json
+87 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\jQuery\package.json
+88 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\jodid25519\package.json
+89 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\jsbn\package.json
+90 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\jsdom\package.json
+91 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\json-schema\package.json
+92 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\json-stringify-safe\package.json
+93 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\jsonpointer\package.json
+94 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\jsprim\package.json
+95 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\levn\package.json
+96 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\lodash\package.json
+97 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\media-typer\package.json
+98 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\merge-descriptors\package.json
+99 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\methods\package.json
+100 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\mime\package.json
+101 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\mime-db\package.json
+102 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\mime-types\package.json
+103 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ms\package.json
+104 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\negotiator\package.json
+105 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\node-uuid\package.json
+106 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\nth-check\package.json
+107 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\nwmatcher\package.json
+108 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\oauth\package.json
+109 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\oauth-sign\package.json
+110 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\on-finished\package.json
+111 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\optionator\package.json
+112 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\parse5\package.json
+113 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\parseurl\package.json
+114 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\passport\package.json
+115 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\passport-facebook\package.json
+116 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\passport-oauth2\package.json
+117 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\passport-strategy\package.json
+118 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\path\package.json
+119 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\path-to-regexp\package.json
+120 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\pause\package.json
+121 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\pinkie\package.json
+122 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\pinkie-promise\package.json
+123 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\prelude-ls\package.json
+124 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\process\package.json
+125 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\process-nextick-args\package.json
+126 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\proxy-addr\package.json
+127 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\qs\package.json
+128 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\range-parser\package.json
+129 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\readable-stream\package.json
+130 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\readline\package.json
+131 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\readline-sync\package.json
+132 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\request\package.json
+133 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\sax\package.json
+134 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\send\package.json
+135 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\serve-static\package.json
+136 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\setprototypeof\package.json
+137 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\sntp\package.json
+138 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\source-map\package.json
+139 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\sshpk\package.json
+140 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\statuses\package.json
+141 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\string_decoder\package.json
+142 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\stringstream\package.json
+143 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\strip-ansi\package.json
+144 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\supports-color\package.json
+145 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\symbol-tree\package.json
+146 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\tough-cookie\package.json
+147 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\tr46\package.json
+148 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\tunnel-agent\package.json
+149 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\tweetnacl\package.json
+150 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\type-check\package.json
+151 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\type-is\package.json
+152 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\uid2\package.json
+153 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\unpipe\package.json
+154 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\util\package.json
+155 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\util-deprecate\package.json
+156 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\utils-merge\package.json
+157 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\vary\package.json
+158 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\verror\package.json
+159 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\webidl-conversions\package.json
+160 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\whatwg-url-compat\package.json
+161 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\wordwrap\package.json
+162 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\xml-name-validator\package.json
+163 verbose installManyTop reading scoped package data from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\xtend\package.json
+164 info package.json css-select@1.2.0 license should be a valid SPDX license expression
+165 info package.json css-what@2.1.0 license should be a valid SPDX license expression
+166 info package.json deep-is@0.1.3 license should be a valid SPDX license expression
+167 info package.json domelementtype@1.3.0 No license field.
+168 info package.json domutils@1.5.1 No license field.
+169 info package.json domhandler@2.3.0 No license field.
+170 info package.json entities@1.1.1 license should be a valid SPDX license expression
+171 info package.json estraverse@1.9.3 No license field.
+172 info package.json esutils@2.0.2 No license field.
+173 info package.json extsprintf@1.0.2 No license field.
+174 info package.json jQuery@1.7.4 No license field.
+175 info package.json jsbn@0.1.0 license should be a valid SPDX license expression
+176 info package.json json-schema@0.2.2 No license field.
+177 info package.json mime@1.3.4 No license field.
+178 info package.json ms@0.7.1 No license field.
+179 info package.json node-uuid@1.4.7 No license field.
+180 info package.json nth-check@1.0.1 license should be a valid SPDX license expression
+181 info package.json nwmatcher@1.3.8 No license field.
+182 info package.json oauth@0.9.14 No license field.
+183 info package.json parse5@1.5.1 No license field.
+184 info package.json passport-strategy@1.0.0 No license field.
+185 info package.json path@0.12.7 path is also the name of a node core module.
+186 info package.json pause@0.0.1 No repository field.
+187 info package.json pause@0.0.1 No license field.
+188 info package.json process@0.11.7 process is also the name of a node core module.
+189 info package.json prelude-ls@1.1.2 No license field.
+190 info package.json readline@1.3.0 readline is also the name of a node core module.
+191 info package.json readline@1.3.0 license should be a valid SPDX license expression
+192 info package.json sntp@1.0.9 No license field.
+193 info package.json source-map@0.2.0 No license field.
+194 info package.json string_decoder@0.10.31 string_decoder is also the name of a node core module.
+195 info package.json tweetnacl@0.13.3 license should be a valid SPDX license expression
+196 info package.json uid2@0.0.3 No repository field.
+197 info package.json uid2@0.0.3 No license field.
+198 info package.json util@0.10.3 util is also the name of a node core module.
+199 info package.json utils-merge@1.0.0 No license field.
+200 info package.json verror@1.3.6 No license field.
+201 verbose readDependencies loading dependencies from C:\Users\max\Desktop\Hackthon-Team-3\package.json
+202 silly cache add args [ 'ssh', null ]
+203 verbose cache add spec ssh
+204 silly cache add parsed spec Result {
+204 silly cache add   raw: 'ssh',
+204 silly cache add   scope: null,
+204 silly cache add   name: 'ssh',
+204 silly cache add   rawSpec: '',
+204 silly cache add   spec: 'latest',
+204 silly cache add   type: 'tag' }
+205 silly addNamed ssh@latest
+206 verbose addNamed "latest" is being treated as a dist-tag for ssh
+207 info addNameTag [ 'ssh', 'latest' ]
+208 silly mapToRegistry name ssh
+209 silly mapToRegistry using default registry
+210 silly mapToRegistry registry https://registry.npmjs.org/
+211 silly mapToRegistry data Result {
+211 silly mapToRegistry   raw: 'ssh',
+211 silly mapToRegistry   scope: null,
+211 silly mapToRegistry   name: 'ssh',
+211 silly mapToRegistry   rawSpec: '',
+211 silly mapToRegistry   spec: 'latest',
+211 silly mapToRegistry   type: 'tag' }
+212 silly mapToRegistry uri https://registry.npmjs.org/ssh
+213 verbose addNameTag registry:https://registry.npmjs.org/ssh not in flight; fetching
+214 verbose request uri https://registry.npmjs.org/ssh
+215 verbose request no auth needed
+216 info attempt registry request try #1 at 17:17:21
+217 verbose request id 94c3e119e48de388
+218 http request GET https://registry.npmjs.org/ssh
+219 http 200 https://registry.npmjs.org/ssh
+220 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+220 verbose headers   etag: '"36UTYKITFDA3VBGSHL0TTUB7A"',
+220 verbose headers   'content-type': 'application/json',
+220 verbose headers   'content-encoding': 'gzip',
+220 verbose headers   'cache-control': 'max-age=300',
+220 verbose headers   'content-length': '7605',
+220 verbose headers   'accept-ranges': 'bytes',
+220 verbose headers   date: 'Sat, 06 Aug 2016 08:17:36 GMT',
+220 verbose headers   via: '1.1 varnish',
+220 verbose headers   age: '0',
+220 verbose headers   connection: 'keep-alive',
+220 verbose headers   'x-served-by': 'cache-hkg6826-HKG',
+220 verbose headers   'x-cache': 'MISS',
+220 verbose headers   'x-cache-hits': '0',
+220 verbose headers   'x-timer': 'S1470471456.229251,VS0,VE436',
+220 verbose headers   vary: 'Accept-Encoding' }
+221 silly get cb [ 200,
+221 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+221 silly get     etag: '"36UTYKITFDA3VBGSHL0TTUB7A"',
+221 silly get     'content-type': 'application/json',
+221 silly get     'content-encoding': 'gzip',
+221 silly get     'cache-control': 'max-age=300',
+221 silly get     'content-length': '7605',
+221 silly get     'accept-ranges': 'bytes',
+221 silly get     date: 'Sat, 06 Aug 2016 08:17:36 GMT',
+221 silly get     via: '1.1 varnish',
+221 silly get     age: '0',
+221 silly get     connection: 'keep-alive',
+221 silly get     'x-served-by': 'cache-hkg6826-HKG',
+221 silly get     'x-cache': 'MISS',
+221 silly get     'x-cache-hits': '0',
+221 silly get     'x-timer': 'S1470471456.229251,VS0,VE436',
+221 silly get     vary: 'Accept-Encoding' } ]
+222 verbose get saving ssh to C:\Users\max\AppData\Roaming\npm-cache\registry.npmjs.org\ssh\.cache.json
+223 verbose correctMkdir C:\Users\max\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+224 verbose makeDirectory C:\Users\max\AppData\Roaming\npm-cache creation not in flight; initializing
+225 verbose makeCacheDir UID & GID are irrelevant on win32
+226 silly addNameTag next cb for ssh with tag latest
+227 silly addNamed ssh@1.8.0
+228 verbose addNamed "1.8.0" is a plain semver version for ssh
+229 silly mapToRegistry name ssh
+230 silly mapToRegistry using default registry
+231 silly mapToRegistry registry https://registry.npmjs.org/
+232 silly mapToRegistry data Result {
+232 silly mapToRegistry   raw: 'ssh',
+232 silly mapToRegistry   scope: null,
+232 silly mapToRegistry   name: 'ssh',
+232 silly mapToRegistry   rawSpec: '',
+232 silly mapToRegistry   spec: 'latest',
+232 silly mapToRegistry   type: 'tag' }
+233 silly mapToRegistry uri https://registry.npmjs.org/ssh
+234 verbose addRemoteTarball https://registry.npmjs.org/ssh/-/ssh-1.8.0.tgz not in flight; adding
+235 verbose addRemoteTarball [ 'https://registry.npmjs.org/ssh/-/ssh-1.8.0.tgz',
+235 verbose addRemoteTarball   'd959af33f75efaf908713c1c328c485692a9635a' ]
+236 info retry fetch attempt 1 at 17:17:22
+237 info attempt registry request try #1 at 17:17:22
+238 http fetch GET https://registry.npmjs.org/ssh/-/ssh-1.8.0.tgz
+239 http fetch 200 https://registry.npmjs.org/ssh/-/ssh-1.8.0.tgz
+240 silly fetchAndShaCheck shasum d959af33f75efaf908713c1c328c485692a9635a
+241 verbose addTmpTarball C:\Users\max\AppData\Local\Temp\npm-33964-f5355b83\registry.npmjs.org\ssh\-\ssh-1.8.0.tgz not in flight; adding
+242 verbose addTmpTarball already have metadata; skipping unpack for ssh@1.8.0
+243 verbose correctMkdir C:\Users\max\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+244 silly cache afterAdd ssh@1.8.0
+245 verbose afterAdd C:\Users\max\AppData\Roaming\npm-cache\ssh\1.8.0\package\package.json not in flight; writing
+246 verbose correctMkdir C:\Users\max\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+247 verbose afterAdd C:\Users\max\AppData\Roaming\npm-cache\ssh\1.8.0\package\package.json written
+248 silly install resolved [ { name: 'ssh',
+248 silly install resolved     description: 'A Node.js binding for libssh',
+248 silly install resolved     maintainers: [ [Object], [Object], [Object], [Object] ],
+248 silly install resolved     keywords: [ 'ssh', 'libssh' ],
+248 silly install resolved     version: '1.8.0',
+248 silly install resolved     main: 'index.js',
+248 silly install resolved     dependencies: { bindings: '*', nan: '^1.8.4' },
+248 silly install resolved     devDependencies:
+248 silly install resolved      { tap: '*',
+248 silly install resolved        ssh2: '*',
+248 silly install resolved        bl: '*',
+248 silly install resolved        'node-gyp': '~1.0.1',
+248 silly install resolved        'pty.js': 'git://github.com/chjj/pty.js.git' },
+248 silly install resolved     repository:
+248 silly install resolved      { type: 'git',
+248 silly install resolved        url: 'git+https://github.com/rvagg/node-libssh.git' },
+248 silly install resolved     scripts:
+248 silly install resolved      { test: 'tap test/*-test.js --stderr',
+248 silly install resolved        install: 'node-gyp rebuild' },
+248 silly install resolved     license: 'MIT',
+248 silly install resolved     gypfile: true,
+248 silly install resolved     gitHead: '0c6c00c5796ba0cbd0964ba662d1c6d544abc18d',
+248 silly install resolved     bugs: { url: 'https://github.com/rvagg/node-libssh/issues' },
+248 silly install resolved     homepage: 'https://github.com/rvagg/node-libssh#readme',
+248 silly install resolved     _id: 'ssh@1.8.0',
+248 silly install resolved     _shasum: 'd959af33f75efaf908713c1c328c485692a9635a',
+248 silly install resolved     _from: 'ssh@latest',
+248 silly install resolved     _npmVersion: '2.8.3',
+248 silly install resolved     _nodeVersion: '1.8.1',
+248 silly install resolved     _npmUser: { name: 'kenansulayman', email: 'kenan@sly.mn' },
+248 silly install resolved     dist:
+248 silly install resolved      { shasum: 'd959af33f75efaf908713c1c328c485692a9635a',
+248 silly install resolved        tarball: 'https://registry.npmjs.org/ssh/-/ssh-1.8.0.tgz' },
+248 silly install resolved     directories: {},
+248 silly install resolved     _resolved: 'https://registry.npmjs.org/ssh/-/ssh-1.8.0.tgz' } ]
+249 info install ssh@1.8.0 into C:\Users\max\Desktop\Hackthon-Team-3
+250 info installOne ssh@1.8.0
+251 verbose installOne of ssh to C:\Users\max\Desktop\Hackthon-Team-3 not in flight; installing
+252 verbose correctMkdir C:\Users\max\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+253 verbose makeDirectory C:\Users\max\AppData\Roaming\npm-cache\_locks creation not in flight; initializing
+254 verbose makeCacheDir UID & GID are irrelevant on win32
+255 verbose lock using C:\Users\max\AppData\Roaming\npm-cache\_locks\ssh-4698afec5354cd3a.lock for C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh
+256 silly install write writing ssh 1.8.0 to C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh
+257 verbose unbuild node_modules\ssh
+258 silly gentlyRm C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh is being purged from base C:\Users\max\Desktop\Hackthon-Team-3
+259 verbose gentlyRm don't care about contents; nuking C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh
+260 verbose tar unpack C:\Users\max\AppData\Roaming\npm-cache\ssh\1.8.0\package.tgz
+261 verbose tar unpacking to C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh
+262 silly gentlyRm C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh is being purged
+263 verbose gentlyRm don't care about contents; nuking C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh
+264 silly gunzTarPerm modes [ '777', '666' ]
+265 silly gunzTarPerm extractEntry package.json
+266 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+267 silly gunzTarPerm extractEntry .npmignore
+268 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
+269 silly gunzTarPerm extractEntry README.md
+270 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+271 silly gunzTarPerm extractEntry LICENSE
+272 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+273 silly gunzTarPerm extractEntry index.js
+274 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+275 silly gunzTarPerm extractEntry binding.gyp
+276 silly gunzTarPerm modified mode [ 'binding.gyp', 420, 438 ]
+277 silly gunzTarPerm extractEntry .jshintrc
+278 silly gunzTarPerm modified mode [ '.jshintrc', 420, 438 ]
+279 silly gunzTarPerm extractEntry .travis.yml
+280 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
+281 silly gunzTarPerm extractEntry deps/include/config.h
+282 silly gunzTarPerm modified mode [ 'deps/include/config.h', 420, 438 ]
+283 silly gunzTarPerm extractEntry deps/include-osx/config.h
+284 silly gunzTarPerm modified mode [ 'deps/include-osx/config.h', 420, 438 ]
+285 silly gunzTarPerm extractEntry deps/include-win/config.h
+286 silly gunzTarPerm modified mode [ 'deps/include-win/config.h', 420, 438 ]
+287 silly gunzTarPerm extractEntry deps/libssh-0.6.4/README
+288 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/README', 420, 438 ]
+289 silly gunzTarPerm extractEntry deps/libssh-0.6.4/SubmittingPatches
+290 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/SubmittingPatches', 420, 438 ]
+291 silly gunzTarPerm extractEntry deps/libssh-0.6.4/CMakeLists.txt
+292 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/CMakeLists.txt', 420, 438 ]
+293 silly gunzTarPerm extractEntry deps/libssh-0.6.4/COPYING
+294 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/COPYING', 420, 438 ]
+295 silly gunzTarPerm extractEntry deps/libssh-0.6.4/CPackConfig.cmake
+296 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/CPackConfig.cmake', 420, 438 ]
+297 silly gunzTarPerm extractEntry deps/libssh-0.6.4/CTestConfig.cmake
+298 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/CTestConfig.cmake', 420, 438 ]
+299 silly gunzTarPerm extractEntry deps/libssh-0.6.4/ChangeLog
+300 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/ChangeLog', 420, 438 ]
+301 silly gunzTarPerm extractEntry deps/libssh-0.6.4/CodingStyle
+302 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/CodingStyle', 420, 438 ]
+303 silly gunzTarPerm extractEntry deps/libssh-0.6.4/ConfigureChecks.cmake
+304 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/ConfigureChecks.cmake', 420, 438 ]
+305 silly gunzTarPerm extractEntry deps/libssh-0.6.4/DefineOptions.cmake
+306 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/DefineOptions.cmake', 420, 438 ]
+307 silly gunzTarPerm extractEntry deps/libssh-0.6.4/INSTALL
+308 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/INSTALL', 420, 438 ]
+309 silly gunzTarPerm extractEntry deps/libssh-0.6.4/AUTHORS
+310 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/AUTHORS', 420, 438 ]
+311 silly gunzTarPerm extractEntry deps/libssh-0.6.4/BSD
+312 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/BSD', 420, 438 ]
+313 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/FindCMocka.cmake
+314 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/FindCMocka.cmake', 420, 438 ]
+315 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/AddCMockaTest.cmake
+316 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/AddCMockaTest.cmake',
+316 silly gunzTarPerm   420,
+316 silly gunzTarPerm   438 ]
+317 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/CheckCCompilerFlagSSP.cmake
+318 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/CheckCCompilerFlagSSP.cmake',
+318 silly gunzTarPerm   420,
+318 silly gunzTarPerm   438 ]
+319 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/DefineCMakeDefaults.cmake
+320 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/DefineCMakeDefaults.cmake',
+320 silly gunzTarPerm   420,
+320 silly gunzTarPerm   438 ]
+321 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/DefineCompilerFlags.cmake
+322 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/DefineCompilerFlags.cmake',
+322 silly gunzTarPerm   420,
+322 silly gunzTarPerm   438 ]
+323 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/DefineInstallationPaths.cmake
+324 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/DefineInstallationPaths.cmake',
+324 silly gunzTarPerm   420,
+324 silly gunzTarPerm   438 ]
+325 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/DefinePlatformDefaults.cmake
+326 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/DefinePlatformDefaults.cmake',
+326 silly gunzTarPerm   420,
+326 silly gunzTarPerm   438 ]
+327 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/FindArgp.cmake
+328 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/FindArgp.cmake', 420, 438 ]
+329 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/COPYING-CMAKE-SCRIPTS
+330 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/COPYING-CMAKE-SCRIPTS',
+330 silly gunzTarPerm   420,
+330 silly gunzTarPerm   438 ]
+331 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/FindGCrypt.cmake
+332 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/FindGCrypt.cmake', 420, 438 ]
+333 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/FindGSSAPI.cmake
+334 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/FindGSSAPI.cmake', 420, 438 ]
+335 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/FindNSIS.cmake
+336 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/FindNSIS.cmake', 420, 438 ]
+337 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/FindNaCl.cmake
+338 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/FindNaCl.cmake', 420, 438 ]
+339 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/FindOpenSSL.cmake
+340 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/FindOpenSSL.cmake', 420, 438 ]
+341 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/FindZLIB.cmake
+342 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/FindZLIB.cmake', 420, 438 ]
+343 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/MacroEnsureOutOfSourceBuild.cmake
+344 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/MacroEnsureOutOfSourceBuild.cmake',
+344 silly gunzTarPerm   420,
+344 silly gunzTarPerm   438 ]
+345 silly gunzTarPerm extractEntry deps/libssh-0.6.4/cmake/Modules/UseDoxygen.cmake
+346 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/cmake/Modules/UseDoxygen.cmake', 420, 438 ]
+347 silly gunzTarPerm extractEntry deps/libssh-0.6.4/config.h.cmake
+348 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/config.h.cmake', 420, 438 ]
+349 silly gunzTarPerm extractEntry deps/libssh-0.6.4/doc/introduction.dox
+350 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/doc/introduction.dox', 420, 438 ]
+351 silly gunzTarPerm extractEntry deps/libssh-0.6.4/doc/CMakeLists.txt
+352 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/doc/CMakeLists.txt', 420, 438 ]
+353 silly gunzTarPerm extractEntry deps/libssh-0.6.4/doc/authentication.dox
+354 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/doc/authentication.dox', 420, 438 ]
+355 silly gunzTarPerm extractEntry deps/libssh-0.6.4/doc/command.dox
+356 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/doc/command.dox', 420, 438 ]
+357 silly gunzTarPerm extractEntry deps/libssh-0.6.4/doc/curve25519-sha256@libssh.org.txt
+358 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/doc/curve25519-sha256@libssh.org.txt',
+358 silly gunzTarPerm   420,
+358 silly gunzTarPerm   438 ]
+359 silly gunzTarPerm extractEntry deps/libssh-0.6.4/doc/forwarding.dox
+360 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/doc/forwarding.dox', 420, 438 ]
+361 silly gunzTarPerm extractEntry deps/libssh-0.6.4/doc/guided_tour.dox
+362 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/doc/guided_tour.dox', 420, 438 ]
+363 silly gunzTarPerm extractEntry deps/libssh-0.6.4/doc/Doxyfile.in
+364 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/doc/Doxyfile.in', 420, 438 ]
+365 silly gunzTarPerm extractEntry deps/libssh-0.6.4/doc/linking.dox
+366 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/doc/linking.dox', 420, 438 ]
+367 silly gunzTarPerm extractEntry deps/libssh-0.6.4/doc/mainpage.dox
+368 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/doc/mainpage.dox', 420, 438 ]
+369 silly gunzTarPerm extractEntry deps/libssh-0.6.4/doc/scp.dox
+370 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/doc/scp.dox', 420, 438 ]
+371 silly gunzTarPerm extractEntry deps/libssh-0.6.4/doc/sftp.dox
+372 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/doc/sftp.dox', 420, 438 ]
+373 silly gunzTarPerm extractEntry deps/libssh-0.6.4/doc/shell.dox
+374 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/doc/shell.dox', 420, 438 ]
+375 silly gunzTarPerm extractEntry deps/libssh-0.6.4/doc/tbd.dox
+376 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/doc/tbd.dox', 420, 438 ]
+377 silly gunzTarPerm extractEntry deps/libssh-0.6.4/doc/threading.dox
+378 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/doc/threading.dox', 420, 438 ]
+379 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/proxy.c
+380 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/proxy.c', 420, 438 ]
+381 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/CMakeLists.txt
+382 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/CMakeLists.txt', 420, 438 ]
+383 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/connect_ssh.c
+384 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/connect_ssh.c', 420, 438 ]
+385 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/examples_common.h
+386 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/examples_common.h', 420, 438 ]
+387 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/exec.c
+388 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/exec.c', 420, 438 ]
+389 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/knownhosts.c
+390 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/knownhosts.c', 420, 438 ]
+391 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/libssh_scp.c
+392 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/libssh_scp.c', 420, 438 ]
+393 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/libsshpp.cpp
+394 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/libsshpp.cpp', 420, 438 ]
+395 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/libsshpp_noexcept.cpp
+396 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/libsshpp_noexcept.cpp', 420, 438 ]
+397 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/authentication.c
+398 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/authentication.c', 420, 438 ]
+399 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/sample.c
+400 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/sample.c', 420, 438 ]
+401 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/samplesftp.c
+402 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/samplesftp.c', 420, 438 ]
+403 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/samplesshd-cb.c
+404 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/samplesshd-cb.c', 420, 438 ]
+405 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/samplesshd-kbdint.c
+406 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/samplesshd-kbdint.c', 420, 438 ]
+407 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/samplesshd-tty.c
+408 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/samplesshd-tty.c', 420, 438 ]
+409 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/samplesshd.c
+410 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/samplesshd.c', 420, 438 ]
+411 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/scp_download.c
+412 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/scp_download.c', 420, 438 ]
+413 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/senddata.c
+414 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/senddata.c', 420, 438 ]
+415 silly gunzTarPerm extractEntry deps/libssh-0.6.4/examples/sshnetcat.c
+416 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/examples/sshnetcat.c', 420, 438 ]
+417 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/CMakeLists.txt
+418 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/CMakeLists.txt', 420, 438 ]
+419 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/libsshpp.hpp
+420 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/libsshpp.hpp', 420, 438 ]
+421 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/CMakeLists.txt
+422 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/CMakeLists.txt', 420, 438 ]
+423 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/auth.h
+424 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/auth.h', 420, 438 ]
+425 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/bind.h
+426 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/bind.h', 420, 438 ]
+427 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/buffer.h
+428 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/buffer.h', 420, 438 ]
+429 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/callbacks.h
+430 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/callbacks.h', 420, 438 ]
+431 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/channels.h
+432 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/channels.h', 420, 438 ]
+433 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/crc32.h
+434 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/crc32.h', 420, 438 ]
+435 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/crypto.h
+436 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/crypto.h', 420, 438 ]
+437 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/curve25519.h
+438 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/curve25519.h', 420, 438 ]
+439 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/dh.h
+440 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/dh.h', 420, 438 ]
+441 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/ecdh.h
+442 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/ecdh.h', 420, 438 ]
+443 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/gssapi.h
+444 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/gssapi.h', 420, 438 ]
+445 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/kex.h
+446 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/kex.h', 420, 438 ]
+447 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/keys.h
+448 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/keys.h', 420, 438 ]
+449 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/knownhosts.h
+450 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/knownhosts.h', 420, 438 ]
+451 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/legacy.h
+452 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/legacy.h', 420, 438 ]
+453 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/libcrypto.h
+454 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/libcrypto.h', 420, 438 ]
+455 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/libgcrypt.h
+456 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/libgcrypt.h', 420, 438 ]
+457 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/libssh.h
+458 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/libssh.h', 420, 438 ]
+459 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/agent.h
+460 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/agent.h', 420, 438 ]
+461 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/messages.h
+462 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/messages.h', 420, 438 ]
+463 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/misc.h
+464 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/misc.h', 420, 438 ]
+465 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/options.h
+466 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/options.h', 420, 438 ]
+467 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/packet.h
+468 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/packet.h', 420, 438 ]
+469 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/pcap.h
+470 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/pcap.h', 420, 438 ]
+471 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/pki.h
+472 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/pki.h', 420, 438 ]
+473 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/pki_priv.h
+474 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/pki_priv.h', 420, 438 ]
+475 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/poll.h
+476 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/poll.h', 420, 438 ]
+477 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/priv.h
+478 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/priv.h', 420, 438 ]
+479 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/scp.h
+480 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/scp.h', 420, 438 ]
+481 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/server.h
+482 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/server.h', 420, 438 ]
+483 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/session.h
+484 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/session.h', 420, 438 ]
+485 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/sftp.h
+486 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/sftp.h', 420, 438 ]
+487 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/socket.h
+488 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/socket.h', 420, 438 ]
+489 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/ssh1.h
+490 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/ssh1.h', 420, 438 ]
+491 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/ssh2.h
+492 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/ssh2.h', 420, 438 ]
+493 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/string.h
+494 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/string.h', 420, 438 ]
+495 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/threads.h
+496 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/threads.h', 420, 438 ]
+497 silly gunzTarPerm extractEntry deps/libssh-0.6.4/include/libssh/wrapper.h
+498 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/include/libssh/wrapper.h', 420, 438 ]
+499 silly gunzTarPerm extractEntry deps/libssh-0.6.4/libssh-build-tree-settings.cmake.in
+500 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/libssh-build-tree-settings.cmake.in',
+500 silly gunzTarPerm   420,
+500 silly gunzTarPerm   438 ]
+501 silly gunzTarPerm extractEntry deps/libssh-0.6.4/libssh-config-version.cmake.in
+502 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/libssh-config-version.cmake.in', 420, 438 ]
+503 silly gunzTarPerm extractEntry deps/libssh-0.6.4/libssh-config.cmake.in
+504 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/libssh-config.cmake.in', 420, 438 ]
+505 silly gunzTarPerm extractEntry deps/libssh-0.6.4/libssh.pc.cmake
+506 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/libssh.pc.cmake', 420, 438 ]
+507 silly gunzTarPerm extractEntry deps/libssh-0.6.4/libssh_threads.pc.cmake
+508 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/libssh_threads.pc.cmake', 420, 438 ]
+509 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/legacy.c
+510 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/legacy.c', 420, 438 ]
+511 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/CMakeLists.txt
+512 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/CMakeLists.txt', 420, 438 ]
+513 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/auth.c
+514 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/auth.c', 420, 438 ]
+515 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/auth1.c
+516 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/auth1.c', 420, 438 ]
+517 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/base64.c
+518 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/base64.c', 420, 438 ]
+519 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/bind.c
+520 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/bind.c', 420, 438 ]
+521 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/buffer.c
+522 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/buffer.c', 420, 438 ]
+523 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/callbacks.c
+524 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/callbacks.c', 420, 438 ]
+525 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/channels.c
+526 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/channels.c', 420, 438 ]
+527 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/channels1.c
+528 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/channels1.c', 420, 438 ]
+529 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/client.c
+530 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/client.c', 420, 438 ]
+531 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/config.c
+532 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/config.c', 420, 438 ]
+533 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/connect.c
+534 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/connect.c', 420, 438 ]
+535 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/crc32.c
+536 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/crc32.c', 420, 438 ]
+537 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/curve25519.c
+538 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/curve25519.c', 420, 438 ]
+539 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/curve25519_ref.c
+540 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/curve25519_ref.c', 420, 438 ]
+541 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/dh.c
+542 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/dh.c', 420, 438 ]
+543 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/ecdh.c
+544 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/ecdh.c', 420, 438 ]
+545 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/error.c
+546 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/error.c', 420, 438 ]
+547 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/gcrypt_missing.c
+548 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/gcrypt_missing.c', 420, 438 ]
+549 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/getpass.c
+550 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/getpass.c', 420, 438 ]
+551 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/gssapi.c
+552 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/gssapi.c', 420, 438 ]
+553 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/gzip.c
+554 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/gzip.c', 420, 438 ]
+555 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/init.c
+556 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/init.c', 420, 438 ]
+557 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/kex.c
+558 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/kex.c', 420, 438 ]
+559 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/kex1.c
+560 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/kex1.c', 420, 438 ]
+561 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/known_hosts.c
+562 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/known_hosts.c', 420, 438 ]
+563 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/agent.c
+564 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/agent.c', 420, 438 ]
+565 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/libcrypto.c
+566 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/libcrypto.c', 420, 438 ]
+567 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/libgcrypt.c
+568 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/libgcrypt.c', 420, 438 ]
+569 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/log.c
+570 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/log.c', 420, 438 ]
+571 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/match.c
+572 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/match.c', 420, 438 ]
+573 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/messages.c
+574 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/messages.c', 420, 438 ]
+575 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/misc.c
+576 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/misc.c', 420, 438 ]
+577 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/options.c
+578 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/options.c', 420, 438 ]
+579 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/packet.c
+580 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/packet.c', 420, 438 ]
+581 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/packet1.c
+582 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/packet1.c', 420, 438 ]
+583 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/packet_cb.c
+584 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/packet_cb.c', 420, 438 ]
+585 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/packet_crypt.c
+586 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/packet_crypt.c', 420, 438 ]
+587 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/pcap.c
+588 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/pcap.c', 420, 438 ]
+589 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/pki.c
+590 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/pki.c', 420, 438 ]
+591 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/pki_crypto.c
+592 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/pki_crypto.c', 420, 438 ]
+593 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/pki_gcrypt.c
+594 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/pki_gcrypt.c', 420, 438 ]
+595 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/poll.c
+596 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/poll.c', 420, 438 ]
+597 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/scp.c
+598 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/scp.c', 420, 438 ]
+599 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/server.c
+600 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/server.c', 420, 438 ]
+601 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/session.c
+602 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/session.c', 420, 438 ]
+603 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/sftp.c
+604 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/sftp.c', 420, 438 ]
+605 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/sftpserver.c
+606 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/sftpserver.c', 420, 438 ]
+607 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/socket.c
+608 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/socket.c', 420, 438 ]
+609 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/string.c
+610 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/string.c', 420, 438 ]
+611 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/threads/CMakeLists.txt
+612 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/threads/CMakeLists.txt', 420, 438 ]
+613 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/threads/pthread.c
+614 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/threads/pthread.c', 420, 438 ]
+615 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/threads.c
+616 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/threads.c', 420, 438 ]
+617 silly gunzTarPerm extractEntry deps/libssh-0.6.4/src/wrapper.c
+618 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/src/wrapper.c', 420, 438 ]
+619 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/test_exec.c
+620 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/test_exec.c', 420, 438 ]
+621 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/CMakeLists.txt
+622 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/CMakeLists.txt', 420, 438 ]
+623 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/benchmarks/CMakeLists.txt
+624 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/benchmarks/CMakeLists.txt', 420, 438 ]
+625 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/benchmarks/bench1.sh
+626 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/benchmarks/bench1.sh', 420, 438 ]
+627 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/benchmarks/bench2.sh
+628 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/benchmarks/bench2.sh', 493, 511 ]
+629 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/benchmarks/bench_raw.c
+630 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/benchmarks/bench_raw.c', 420, 438 ]
+631 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/benchmarks/bench_scp.c
+632 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/benchmarks/bench_scp.c', 420, 438 ]
+633 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/benchmarks/bench_sftp.c
+634 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/benchmarks/bench_sftp.c', 420, 438 ]
+635 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/benchmarks/benchmarks.c
+636 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/benchmarks/benchmarks.c', 420, 438 ]
+637 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/benchmarks/benchmarks.h
+638 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/benchmarks/benchmarks.h', 420, 438 ]
+639 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/benchmarks/latency.c
+640 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/benchmarks/latency.c', 420, 438 ]
+641 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/chmodtest.c
+642 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/chmodtest.c', 420, 438 ]
+643 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/client/torture_proxycommand.c
+644 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/client/torture_proxycommand.c',
+644 silly gunzTarPerm   420,
+644 silly gunzTarPerm   438 ]
+645 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/client/CMakeLists.txt
+646 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/client/CMakeLists.txt', 420, 438 ]
+647 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/client/torture_auth.c
+648 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/client/torture_auth.c', 420, 438 ]
+649 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/client/torture_connect.c
+650 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/client/torture_connect.c', 420, 438 ]
+651 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/client/torture_forward.c
+652 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/client/torture_forward.c', 420, 438 ]
+653 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/client/torture_knownhosts.c
+654 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/client/torture_knownhosts.c',
+654 silly gunzTarPerm   420,
+654 silly gunzTarPerm   438 ]
+655 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/client/torture_algorithms.c
+656 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/client/torture_algorithms.c',
+656 silly gunzTarPerm   420,
+656 silly gunzTarPerm   438 ]
+657 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/client/torture_request_env.c
+658 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/client/torture_request_env.c',
+658 silly gunzTarPerm   420,
+658 silly gunzTarPerm   438 ]
+659 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/client/torture_session.c
+660 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/client/torture_session.c', 420, 438 ]
+661 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/client/torture_sftp_dir.c
+662 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/client/torture_sftp_dir.c', 420, 438 ]
+663 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/client/torture_sftp_read.c
+664 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/client/torture_sftp_read.c',
+664 silly gunzTarPerm   420,
+664 silly gunzTarPerm   438 ]
+665 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/client/torture_sftp_static.c
+666 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/client/torture_sftp_static.c',
+666 silly gunzTarPerm   420,
+666 silly gunzTarPerm   438 ]
+667 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/cmdline.c
+668 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/cmdline.c', 420, 438 ]
+669 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/connection.c
+670 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/connection.c', 420, 438 ]
+671 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/ctest-default.cmake
+672 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/ctest-default.cmake', 420, 438 ]
+673 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/generate.py
+674 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/generate.py', 493, 511 ]
+675 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/sftp_stress/main.c
+676 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/sftp_stress/main.c', 420, 438 ]
+677 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/authentication.c
+678 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/authentication.c', 420, 438 ]
+679 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/test_pcap.c
+680 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/test_pcap.c', 420, 438 ]
+681 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/test_socket.c
+682 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/test_socket.c', 420, 438 ]
+683 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/test_ssh_bind_accept_fd.c
+684 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/test_ssh_bind_accept_fd.c', 420, 438 ]
+685 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/test_tunnel.c
+686 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/test_tunnel.c', 420, 438 ]
+687 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/tests.h
+688 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/tests.h', 420, 438 ]
+689 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/torture.c
+690 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/torture.c', 420, 438 ]
+691 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/torture.h
+692 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/torture.h', 420, 438 ]
+693 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/unittests/torture_keyfiles.c
+694 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/unittests/torture_keyfiles.c',
+694 silly gunzTarPerm   420,
+694 silly gunzTarPerm   438 ]
+695 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/unittests/CMakeLists.txt
+696 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/unittests/CMakeLists.txt', 420, 438 ]
+697 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/unittests/torture_callbacks.c
+698 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/unittests/torture_callbacks.c',
+698 silly gunzTarPerm   420,
+698 silly gunzTarPerm   438 ]
+699 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/unittests/torture_channel.c
+700 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/unittests/torture_channel.c',
+700 silly gunzTarPerm   420,
+700 silly gunzTarPerm   438 ]
+701 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/unittests/torture_init.c
+702 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/unittests/torture_init.c', 420, 438 ]
+703 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/unittests/torture_isipaddr.c
+704 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/unittests/torture_isipaddr.c',
+704 silly gunzTarPerm   420,
+704 silly gunzTarPerm   438 ]
+705 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/unittests/torture_buffer.c
+706 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/unittests/torture_buffer.c',
+706 silly gunzTarPerm   420,
+706 silly gunzTarPerm   438 ]
+707 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/unittests/torture_list.c
+708 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/unittests/torture_list.c', 420, 438 ]
+709 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/unittests/torture_misc.c
+710 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/unittests/torture_misc.c', 420, 438 ]
+711 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/unittests/torture_options.c
+712 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/unittests/torture_options.c',
+712 silly gunzTarPerm   420,
+712 silly gunzTarPerm   438 ]
+713 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/unittests/torture_pki.c
+714 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/unittests/torture_pki.c', 420, 438 ]
+715 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/unittests/torture_rand.c
+716 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/unittests/torture_rand.c', 420, 438 ]
+717 silly gunzTarPerm extractEntry deps/libssh-0.6.4/tests/valgrind.supp
+718 silly gunzTarPerm modified mode [ 'deps/libssh-0.6.4/tests/valgrind.supp', 420, 438 ]
+719 silly gunzTarPerm extractEntry deps/libssh.gyp
+720 silly gunzTarPerm modified mode [ 'deps/libssh.gyp', 420, 438 ]
+721 silly gunzTarPerm extractEntry examples/exec.js
+722 silly gunzTarPerm modified mode [ 'examples/exec.js', 420, 438 ]
+723 silly gunzTarPerm extractEntry examples/stdiopipe.js
+724 silly gunzTarPerm modified mode [ 'examples/stdiopipe.js', 420, 438 ]
+725 silly gunzTarPerm extractEntry examples/term.js
+726 silly gunzTarPerm modified mode [ 'examples/term.js', 420, 438 ]
+727 silly gunzTarPerm extractEntry examples/trickysftp.js
+728 silly gunzTarPerm modified mode [ 'examples/trickysftp.js', 420, 438 ]
+729 silly gunzTarPerm extractEntry examples/fileforyou.txt
+730 silly gunzTarPerm modified mode [ 'examples/fileforyou.txt', 420, 438 ]
+731 silly gunzTarPerm extractEntry CONTRIBUTING.md
+732 silly gunzTarPerm modified mode [ 'CONTRIBUTING.md', 420, 438 ]
+733 silly gunzTarPerm extractEntry lib/channel.js
+734 silly gunzTarPerm modified mode [ 'lib/channel.js', 420, 438 ]
+735 silly gunzTarPerm extractEntry lib/server.js
+736 silly gunzTarPerm modified mode [ 'lib/server.js', 420, 438 ]
+737 silly gunzTarPerm extractEntry lib/session.js
+738 silly gunzTarPerm modified mode [ 'lib/session.js', 420, 438 ]
+739 silly gunzTarPerm extractEntry lib/stat.js
+740 silly gunzTarPerm modified mode [ 'lib/stat.js', 420, 438 ]
+741 silly gunzTarPerm extractEntry .dntrc
+742 silly gunzTarPerm modified mode [ '.dntrc', 420, 438 ]
+743 silly gunzTarPerm extractEntry src/server.cc
+744 silly gunzTarPerm modified mode [ 'src/server.cc', 420, 438 ]
+745 silly gunzTarPerm extractEntry src/channel.cc
+746 silly gunzTarPerm modified mode [ 'src/channel.cc', 420, 438 ]
+747 silly gunzTarPerm extractEntry src/message.cc
+748 silly gunzTarPerm modified mode [ 'src/message.cc', 420, 438 ]
+749 silly gunzTarPerm extractEntry src/message.h
+750 silly gunzTarPerm modified mode [ 'src/message.h', 420, 438 ]
+751 silly gunzTarPerm extractEntry src/nssh.cc
+752 silly gunzTarPerm modified mode [ 'src/nssh.cc', 420, 438 ]
+753 silly gunzTarPerm extractEntry src/nssh.h
+754 silly gunzTarPerm modified mode [ 'src/nssh.h', 420, 438 ]
+755 silly gunzTarPerm extractEntry src/channel.h
+756 silly gunzTarPerm modified mode [ 'src/channel.h', 420, 438 ]
+757 silly gunzTarPerm extractEntry src/server.h
+758 silly gunzTarPerm modified mode [ 'src/server.h', 420, 438 ]
+759 silly gunzTarPerm extractEntry src/session.cc
+760 silly gunzTarPerm modified mode [ 'src/session.cc', 420, 438 ]
+761 silly gunzTarPerm extractEntry src/session.h
+762 silly gunzTarPerm modified mode [ 'src/session.h', 420, 438 ]
+763 silly gunzTarPerm extractEntry src/sftp_message.cc
+764 silly gunzTarPerm modified mode [ 'src/sftp_message.cc', 420, 438 ]
+765 silly gunzTarPerm extractEntry src/sftp_message.h
+766 silly gunzTarPerm modified mode [ 'src/sftp_message.h', 420, 438 ]
+767 silly gunzTarPerm extractEntry test/basic-test.js
+768 silly gunzTarPerm modified mode [ 'test/basic-test.js', 420, 438 ]
+769 silly gunzTarPerm extractEntry test/exec-test.js
+770 silly gunzTarPerm modified mode [ 'test/exec-test.js', 420, 438 ]
+771 silly gunzTarPerm extractEntry test/execute-server.js
+772 silly gunzTarPerm modified mode [ 'test/execute-server.js', 420, 438 ]
+773 silly gunzTarPerm extractEntry test/sftp-test.js
+774 silly gunzTarPerm modified mode [ 'test/sftp-test.js', 420, 438 ]
+775 silly gunzTarPerm extractEntry test/standard-connection-test.js
+776 silly gunzTarPerm modified mode [ 'test/standard-connection-test.js', 420, 438 ]
+777 silly gunzTarPerm extractEntry test/util.js
+778 silly gunzTarPerm modified mode [ 'test/util.js', 420, 438 ]
+779 silly gunzTarPerm extractEntry test/keys/host_dsa
+780 silly gunzTarPerm modified mode [ 'test/keys/host_dsa', 420, 438 ]
+781 silly gunzTarPerm extractEntry test/keys/host_dsa.pub
+782 silly gunzTarPerm modified mode [ 'test/keys/host_dsa.pub', 420, 438 ]
+783 silly gunzTarPerm extractEntry test/keys/host_rsa
+784 silly gunzTarPerm modified mode [ 'test/keys/host_rsa', 420, 438 ]
+785 silly gunzTarPerm extractEntry test/keys/host_rsa.pub
+786 silly gunzTarPerm modified mode [ 'test/keys/host_rsa.pub', 420, 438 ]
+787 silly gunzTarPerm extractEntry test/keys/id_rsa
+788 silly gunzTarPerm modified mode [ 'test/keys/id_rsa', 420, 438 ]
+789 silly gunzTarPerm extractEntry test/keys/id_rsa.pub
+790 silly gunzTarPerm modified mode [ 'test/keys/id_rsa.pub', 420, 438 ]
+791 silly gunzTarPerm extractEntry test/testdata.bin
+792 silly gunzTarPerm modified mode [ 'test/testdata.bin', 420, 438 ]
+793 verbose write writing to C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\package.json
+794 info preinstall ssh@1.8.0
+795 verbose readDependencies loading dependencies from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\package.json
+796 silly prepareForInstallMany adding bindings@* from ssh dependencies
+797 silly prepareForInstallMany adding nan@^1.8.4 from ssh dependencies
+798 verbose readDependencies loading dependencies from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\package.json
+799 silly cache add args [ 'bindings@*', null ]
+800 verbose cache add spec bindings@*
+801 silly cache add args [ 'nan@^1.8.4', null ]
+802 verbose cache add spec nan@^1.8.4
+803 silly cache add parsed spec Result {
+803 silly cache add   raw: 'bindings@*',
+803 silly cache add   scope: null,
+803 silly cache add   name: 'bindings',
+803 silly cache add   rawSpec: '*',
+803 silly cache add   spec: '*',
+803 silly cache add   type: 'range' }
+804 silly addNamed bindings@*
+805 verbose addNamed "*" is a valid semver range for bindings
+806 silly addNameRange { name: 'bindings', range: '*', hasData: false }
+807 silly mapToRegistry name bindings
+808 silly mapToRegistry using default registry
+809 silly mapToRegistry registry https://registry.npmjs.org/
+810 silly mapToRegistry data Result {
+810 silly mapToRegistry   raw: 'bindings',
+810 silly mapToRegistry   scope: null,
+810 silly mapToRegistry   name: 'bindings',
+810 silly mapToRegistry   rawSpec: '',
+810 silly mapToRegistry   spec: 'latest',
+810 silly mapToRegistry   type: 'tag' }
+811 silly mapToRegistry uri https://registry.npmjs.org/bindings
+812 verbose addNameRange registry:https://registry.npmjs.org/bindings not in flight; fetching
+813 silly cache add parsed spec Result {
+813 silly cache add   raw: 'nan@^1.8.4',
+813 silly cache add   scope: null,
+813 silly cache add   name: 'nan',
+813 silly cache add   rawSpec: '^1.8.4',
+813 silly cache add   spec: '>=1.8.4 <2.0.0',
+813 silly cache add   type: 'range' }
+814 silly addNamed nan@>=1.8.4 <2.0.0
+815 verbose addNamed ">=1.8.4 <2.0.0" is a valid semver range for nan
+816 silly addNameRange { name: 'nan', range: '>=1.8.4 <2.0.0', hasData: false }
+817 silly mapToRegistry name nan
+818 silly mapToRegistry using default registry
+819 silly mapToRegistry registry https://registry.npmjs.org/
+820 silly mapToRegistry data Result {
+820 silly mapToRegistry   raw: 'nan',
+820 silly mapToRegistry   scope: null,
+820 silly mapToRegistry   name: 'nan',
+820 silly mapToRegistry   rawSpec: '',
+820 silly mapToRegistry   spec: 'latest',
+820 silly mapToRegistry   type: 'tag' }
+821 silly mapToRegistry uri https://registry.npmjs.org/nan
+822 verbose addNameRange registry:https://registry.npmjs.org/nan not in flight; fetching
+823 verbose request uri https://registry.npmjs.org/bindings
+824 verbose request no auth needed
+825 info attempt registry request try #1 at 17:17:30
+826 http request GET https://registry.npmjs.org/bindings
+827 verbose request uri https://registry.npmjs.org/nan
+828 verbose request no auth needed
+829 info attempt registry request try #1 at 17:17:30
+830 http request GET https://registry.npmjs.org/nan
+831 http 200 https://registry.npmjs.org/bindings
+832 verbose headers { server: 'CouchDB/1.6.1 (Erlang OTP/R16B03)',
+832 verbose headers   etag: '"33TX4J3DNTGF7K41ZUV6OA182"',
+832 verbose headers   'content-type': 'application/json',
+832 verbose headers   'content-encoding': 'gzip',
+832 verbose headers   'cache-control': 'max-age=300',
+832 verbose headers   'content-length': '3804',
+832 verbose headers   'accept-ranges': 'bytes',
+832 verbose headers   date: 'Sat, 06 Aug 2016 08:17:44 GMT',
+832 verbose headers   via: '1.1 varnish',
+832 verbose headers   age: '4',
+832 verbose headers   connection: 'keep-alive',
+832 verbose headers   'x-served-by': 'cache-hkg6826-HKG',
+832 verbose headers   'x-cache': 'HIT',
+832 verbose headers   'x-cache-hits': '2',
+832 verbose headers   'x-timer': 'S1470471464.450661,VS0,VE0',
+832 verbose headers   vary: 'Accept-Encoding' }
+833 silly get cb [ 200,
+833 silly get   { server: 'CouchDB/1.6.1 (Erlang OTP/R16B03)',
+833 silly get     etag: '"33TX4J3DNTGF7K41ZUV6OA182"',
+833 silly get     'content-type': 'application/json',
+833 silly get     'content-encoding': 'gzip',
+833 silly get     'cache-control': 'max-age=300',
+833 silly get     'content-length': '3804',
+833 silly get     'accept-ranges': 'bytes',
+833 silly get     date: 'Sat, 06 Aug 2016 08:17:44 GMT',
+833 silly get     via: '1.1 varnish',
+833 silly get     age: '4',
+833 silly get     connection: 'keep-alive',
+833 silly get     'x-served-by': 'cache-hkg6826-HKG',
+833 silly get     'x-cache': 'HIT',
+833 silly get     'x-cache-hits': '2',
+833 silly get     'x-timer': 'S1470471464.450661,VS0,VE0',
+833 silly get     vary: 'Accept-Encoding' } ]
+834 verbose get saving bindings to C:\Users\max\AppData\Roaming\npm-cache\registry.npmjs.org\bindings\.cache.json
+835 verbose correctMkdir C:\Users\max\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+836 silly addNameRange number 2 { name: 'bindings', range: '*', hasData: true }
+837 silly addNameRange versions [ 'bindings',
+837 silly addNameRange   [ '0.0.1',
+837 silly addNameRange     '0.1.0',
+837 silly addNameRange     '0.1.1',
+837 silly addNameRange     '0.2.0',
+837 silly addNameRange     '0.2.1',
+837 silly addNameRange     '0.2.2',
+837 silly addNameRange     '0.2.3',
+837 silly addNameRange     '0.2.4',
+837 silly addNameRange     '0.3.0',
+837 silly addNameRange     '0.4.0',
+837 silly addNameRange     '1.0.0',
+837 silly addNameRange     '1.1.0',
+837 silly addNameRange     '1.1.1',
+837 silly addNameRange     '1.2.0',
+837 silly addNameRange     '1.2.1' ] ]
+838 silly addNamed bindings@1.2.1
+839 verbose addNamed "1.2.1" is a plain semver version for bindings
+840 silly mapToRegistry name bindings
+841 silly mapToRegistry using default registry
+842 silly mapToRegistry registry https://registry.npmjs.org/
+843 silly mapToRegistry data Result {
+843 silly mapToRegistry   raw: 'bindings',
+843 silly mapToRegistry   scope: null,
+843 silly mapToRegistry   name: 'bindings',
+843 silly mapToRegistry   rawSpec: '',
+843 silly mapToRegistry   spec: 'latest',
+843 silly mapToRegistry   type: 'tag' }
+844 silly mapToRegistry uri https://registry.npmjs.org/bindings
+845 verbose addRemoteTarball https://registry.npmjs.org/bindings/-/bindings-1.2.1.tgz not in flight; adding
+846 verbose addRemoteTarball [ 'https://registry.npmjs.org/bindings/-/bindings-1.2.1.tgz',
+846 verbose addRemoteTarball   '14ad6113812d2d37d72e67b4cacb4bb726505f11' ]
+847 info retry fetch attempt 1 at 17:17:30
+848 info attempt registry request try #1 at 17:17:30
+849 http fetch GET https://registry.npmjs.org/bindings/-/bindings-1.2.1.tgz
+850 http fetch 200 https://registry.npmjs.org/bindings/-/bindings-1.2.1.tgz
+851 silly fetchAndShaCheck shasum 14ad6113812d2d37d72e67b4cacb4bb726505f11
+852 verbose addTmpTarball C:\Users\max\AppData\Local\Temp\npm-33964-f5355b83\registry.npmjs.org\bindings\-\bindings-1.2.1.tgz not in flight; adding
+853 verbose addTmpTarball already have metadata; skipping unpack for bindings@1.2.1
+854 verbose correctMkdir C:\Users\max\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+855 silly cache afterAdd bindings@1.2.1
+856 verbose afterAdd C:\Users\max\AppData\Roaming\npm-cache\bindings\1.2.1\package\package.json not in flight; writing
+857 verbose correctMkdir C:\Users\max\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+858 verbose afterAdd C:\Users\max\AppData\Roaming\npm-cache\bindings\1.2.1\package\package.json written
+859 http 200 https://registry.npmjs.org/nan
+860 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+860 verbose headers   etag: '"EGTR1APXEV7TH8V3QYT0WN357"',
+860 verbose headers   'content-type': 'application/json',
+860 verbose headers   'content-encoding': 'gzip',
+860 verbose headers   'cache-control': 'max-age=300',
+860 verbose headers   'content-length': '17128',
+860 verbose headers   'accept-ranges': 'bytes',
+860 verbose headers   date: 'Sat, 06 Aug 2016 08:17:44 GMT',
+860 verbose headers   via: '1.1 varnish',
+860 verbose headers   age: '42',
+860 verbose headers   connection: 'keep-alive',
+860 verbose headers   'x-served-by': 'cache-hkg6826-HKG',
+860 verbose headers   'x-cache': 'HIT',
+860 verbose headers   'x-cache-hits': '1',
+860 verbose headers   'x-timer': 'S1470471464.703291,VS0,VE0',
+860 verbose headers   vary: 'Accept-Encoding' }
+861 silly get cb [ 200,
+861 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+861 silly get     etag: '"EGTR1APXEV7TH8V3QYT0WN357"',
+861 silly get     'content-type': 'application/json',
+861 silly get     'content-encoding': 'gzip',
+861 silly get     'cache-control': 'max-age=300',
+861 silly get     'content-length': '17128',
+861 silly get     'accept-ranges': 'bytes',
+861 silly get     date: 'Sat, 06 Aug 2016 08:17:44 GMT',
+861 silly get     via: '1.1 varnish',
+861 silly get     age: '42',
+861 silly get     connection: 'keep-alive',
+861 silly get     'x-served-by': 'cache-hkg6826-HKG',
+861 silly get     'x-cache': 'HIT',
+861 silly get     'x-cache-hits': '1',
+861 silly get     'x-timer': 'S1470471464.703291,VS0,VE0',
+861 silly get     vary: 'Accept-Encoding' } ]
+862 verbose get saving nan to C:\Users\max\AppData\Roaming\npm-cache\registry.npmjs.org\nan\.cache.json
+863 verbose correctMkdir C:\Users\max\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+864 silly addNameRange number 2 { name: 'nan', range: '>=1.8.4 <2.0.0', hasData: true }
+865 silly addNameRange versions [ 'nan',
+865 silly addNameRange   [ '0.3.0-wip',
+865 silly addNameRange     '0.3.0-wip2',
+865 silly addNameRange     '0.3.0',
+865 silly addNameRange     '0.3.1',
+865 silly addNameRange     '0.3.2',
+865 silly addNameRange     '0.4.0',
+865 silly addNameRange     '0.4.1',
+865 silly addNameRange     '0.4.2',
+865 silly addNameRange     '0.4.3',
+865 silly addNameRange     '0.4.4',
+865 silly addNameRange     '0.5.0',
+865 silly addNameRange     '0.5.1',
+865 silly addNameRange     '0.5.2',
+865 silly addNameRange     '0.6.0',
+865 silly addNameRange     '0.7.0',
+865 silly addNameRange     '0.7.1',
+865 silly addNameRange     '0.8.0',
+865 silly addNameRange     '1.0.0',
+865 silly addNameRange     '1.1.0',
+865 silly addNameRange     '1.1.1',
+865 silly addNameRange     '1.1.2',
+865 silly addNameRange     '1.2.0',
+865 silly addNameRange     '1.3.0',
+865 silly addNameRange     '1.4.0',
+865 silly addNameRange     '1.4.1',
+865 silly addNameRange     '1.5.0',
+865 silly addNameRange     '1.4.2',
+865 silly addNameRange     '1.4.3',
+865 silly addNameRange     '1.5.1',
+865 silly addNameRange     '1.5.2',
+865 silly addNameRange     '1.6.0',
+865 silly addNameRange     '1.5.3',
+865 silly addNameRange     '1.6.1',
+865 silly addNameRange     '1.6.2',
+865 silly addNameRange     '1.7.0',
+865 silly addNameRange     '1.8.0',
+865 silly addNameRange     '1.8.1',
+865 silly addNameRange     '1.8.2',
+865 silly addNameRange     '1.8.3',
+865 silly addNameRange     '1.8.4',
+865 silly addNameRange     '1.9.0',
+865 silly addNameRange     '2.0.0',
+865 silly addNameRange     '2.0.1',
+865 silly addNameRange     '2.0.2',
+865 silly addNameRange     '2.0.3',
+865 silly addNameRange     '2.0.4',
+865 silly addNameRange     '2.0.5',
+865 silly addNameRange     '2.0.6',
+865 silly addNameRange     '2.0.7',
+865 silly addNameRange     '2.0.8',
+865 silly addNameRange     '2.0.9',
+865 silly addNameRange     '2.1.0',
+865 silly addNameRange     '2.2.0',
+865 silly addNameRange     '2.2.1',
+865 silly addNameRange     '2.3.0',
+865 silly addNameRange     '2.3.1',
+865 silly addNameRange     '2.3.2',
+865 silly addNameRange     '2.3.3',
+865 silly addNameRange     '2.3.4',
+865 silly addNameRange     '2.3.5',
+865 silly addNameRange     '2.4.0' ] ]
+866 silly addNamed nan@1.9.0
+867 verbose addNamed "1.9.0" is a plain semver version for nan
+868 silly mapToRegistry name nan
+869 silly mapToRegistry using default registry
+870 silly mapToRegistry registry https://registry.npmjs.org/
+871 silly mapToRegistry data Result {
+871 silly mapToRegistry   raw: 'nan',
+871 silly mapToRegistry   scope: null,
+871 silly mapToRegistry   name: 'nan',
+871 silly mapToRegistry   rawSpec: '',
+871 silly mapToRegistry   spec: 'latest',
+871 silly mapToRegistry   type: 'tag' }
+872 silly mapToRegistry uri https://registry.npmjs.org/nan
+873 verbose addRemoteTarball https://registry.npmjs.org/nan/-/nan-1.9.0.tgz not in flight; adding
+874 verbose addRemoteTarball [ 'https://registry.npmjs.org/nan/-/nan-1.9.0.tgz',
+874 verbose addRemoteTarball   '1a9cd2755609766f5c291e4194fce39fde286515' ]
+875 info retry fetch attempt 1 at 17:17:30
+876 info attempt registry request try #1 at 17:17:30
+877 http fetch GET https://registry.npmjs.org/nan/-/nan-1.9.0.tgz
+878 http fetch 200 https://registry.npmjs.org/nan/-/nan-1.9.0.tgz
+879 silly fetchAndShaCheck shasum 1a9cd2755609766f5c291e4194fce39fde286515
+880 verbose addTmpTarball C:\Users\max\AppData\Local\Temp\npm-33964-f5355b83\registry.npmjs.org\nan\-\nan-1.9.0.tgz not in flight; adding
+881 verbose addTmpTarball already have metadata; skipping unpack for nan@1.9.0
+882 verbose correctMkdir C:\Users\max\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+883 silly cache afterAdd nan@1.9.0
+884 verbose afterAdd C:\Users\max\AppData\Roaming\npm-cache\nan\1.9.0\package\package.json not in flight; writing
+885 verbose correctMkdir C:\Users\max\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+886 verbose afterAdd C:\Users\max\AppData\Roaming\npm-cache\nan\1.9.0\package\package.json written
+887 silly install resolved [ { name: 'bindings',
+887 silly install resolved     description: 'Helper module for loading your native module\'s .node file',
+887 silly install resolved     keywords: [ 'native', 'addon', 'bindings', 'gyp', 'waf', 'c', 'c++' ],
+887 silly install resolved     version: '1.2.1',
+887 silly install resolved     author:
+887 silly install resolved      { name: 'Nathan Rajlich',
+887 silly install resolved        email: 'nathan@tootallnate.net',
+887 silly install resolved        url: 'http://tootallnate.net' },
+887 silly install resolved     repository:
+887 silly install resolved      { type: 'git',
+887 silly install resolved        url: 'git://github.com/TooTallNate/node-bindings.git' },
+887 silly install resolved     main: './bindings.js',
+887 silly install resolved     bugs: { url: 'https://github.com/TooTallNate/node-bindings/issues' },
+887 silly install resolved     homepage: 'https://github.com/TooTallNate/node-bindings',
+887 silly install resolved     license: 'MIT',
+887 silly install resolved     gitHead: 'e404152ee27f8478ccbc7122ee051246e8e5ec02',
+887 silly install resolved     _id: 'bindings@1.2.1',
+887 silly install resolved     scripts: {},
+887 silly install resolved     _shasum: '14ad6113812d2d37d72e67b4cacb4bb726505f11',
+887 silly install resolved     _from: 'bindings@*',
+887 silly install resolved     _npmVersion: '1.4.14',
+887 silly install resolved     _npmUser: { name: 'tootallnate', email: 'nathan@tootallnate.net' },
+887 silly install resolved     maintainers: [ [Object], [Object] ],
+887 silly install resolved     dist:
+887 silly install resolved      { shasum: '14ad6113812d2d37d72e67b4cacb4bb726505f11',
+887 silly install resolved        tarball: 'https://registry.npmjs.org/bindings/-/bindings-1.2.1.tgz' },
+887 silly install resolved     directories: {},
+887 silly install resolved     _resolved: 'https://registry.npmjs.org/bindings/-/bindings-1.2.1.tgz' },
+887 silly install resolved   { name: 'nan',
+887 silly install resolved     version: '1.9.0',
+887 silly install resolved     description: 'Native Abstractions for Node.js: C++ header for Node 0.8->0.12 compatibility',
+887 silly install resolved     main: 'include_dirs.js',
+887 silly install resolved     repository: { type: 'git', url: 'git://github.com/nodejs/nan.git' },
+887 silly install resolved     scripts:
+887 silly install resolved      { test: 'tap --gc test/js/*-test.js',
+887 silly install resolved        'rebuild-tests': 'pangyp rebuild --msvs_version=2013 --directory test' },
+887 silly install resolved     contributors:
+887 silly install resolved      [ [Object],
+887 silly install resolved        [Object],
+887 silly install resolved        [Object],
+887 silly install resolved        [Object],
+887 silly install resolved        [Object],
+887 silly install resolved        [Object],
+887 silly install resolved        [Object] ],
+887 silly install resolved     devDependencies:
+887 silly install resolved      { bindings: '~1.2.1',
+887 silly install resolved        'node-gyp': '~2.0.2',
+887 silly install resolved        pangyp: '~2.2.0',
+887 silly install resolved        tap: '~0.7.1',
+887 silly install resolved        xtend: '~4.0.0' },
+887 silly install resolved     license: 'MIT',
+887 silly install resolved     gitHead: '399b3a54ada39a7cf7a11978ea727eae3686666e',
+887 silly install resolved     bugs: { url: 'https://github.com/nodejs/nan/issues' },
+887 silly install resolved     homepage: 'https://github.com/nodejs/nan#readme',
+887 silly install resolved     _id: 'nan@1.9.0',
+887 silly install resolved     _shasum: '1a9cd2755609766f5c291e4194fce39fde286515',
+887 silly install resolved     _from: 'nan@>=1.8.4 <2.0.0',
+887 silly install resolved     _npmVersion: '2.13.3',
+887 silly install resolved     _nodeVersion: '0.12.2',
+887 silly install resolved     _npmUser: { name: 'kkoopa', email: 'bbyholm@abo.fi' },
+887 silly install resolved     maintainers: [ [Object], [Object] ],
+887 silly install resolved     dist:
+887 silly install resolved      { shasum: '1a9cd2755609766f5c291e4194fce39fde286515',
+887 silly install resolved        tarball: 'https://registry.npmjs.org/nan/-/nan-1.9.0.tgz' },
+887 silly install resolved     directories: {},
+887 silly install resolved     _resolved: 'https://registry.npmjs.org/nan/-/nan-1.9.0.tgz' } ]
+888 info install bindings@1.2.1 into C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh
+889 info install nan@1.9.0 into C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh
+890 info installOne bindings@1.2.1
+891 verbose installOne of bindings to C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh not in flight; installing
+892 verbose correctMkdir C:\Users\max\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+893 info installOne nan@1.9.0
+894 verbose installOne of nan to C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh not in flight; installing
+895 verbose correctMkdir C:\Users\max\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+896 verbose lock using C:\Users\max\AppData\Roaming\npm-cache\_locks\bindings-a3c5106cb84c186e.lock for C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\bindings
+897 verbose lock using C:\Users\max\AppData\Roaming\npm-cache\_locks\nan-f976568c813322f2.lock for C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\nan
+898 silly install write writing bindings 1.2.1 to C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\bindings
+899 silly install write writing nan 1.9.0 to C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\nan
+900 verbose unbuild node_modules\ssh\node_modules\bindings
+901 verbose unbuild node_modules\ssh\node_modules\nan
+902 silly gentlyRm C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\bindings is being purged from base C:\Users\max\Desktop\Hackthon-Team-3
+903 verbose gentlyRm don't care about contents; nuking C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\bindings
+904 verbose tar unpack C:\Users\max\AppData\Roaming\npm-cache\bindings\1.2.1\package.tgz
+905 verbose tar unpacking to C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\bindings
+906 silly gentlyRm C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\bindings is being purged
+907 verbose gentlyRm don't care about contents; nuking C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\bindings
+908 silly gentlyRm C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\nan is being purged from base C:\Users\max\Desktop\Hackthon-Team-3
+909 verbose gentlyRm don't care about contents; nuking C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\nan
+910 silly gunzTarPerm modes [ '777', '666' ]
+911 verbose tar unpack C:\Users\max\AppData\Roaming\npm-cache\nan\1.9.0\package.tgz
+912 verbose tar unpacking to C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\nan
+913 silly gentlyRm C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\nan is being purged
+914 verbose gentlyRm don't care about contents; nuking C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\nan
+915 silly gunzTarPerm modes [ '777', '666' ]
+916 silly gunzTarPerm extractEntry package.json
+917 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+918 silly gunzTarPerm extractEntry package.json
+919 silly gunzTarPerm modified mode [ 'package.json', 436, 438 ]
+920 silly gunzTarPerm extractEntry README.md
+921 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+922 silly gunzTarPerm extractEntry bindings.js
+923 silly gunzTarPerm modified mode [ 'bindings.js', 420, 438 ]
+924 silly gunzTarPerm extractEntry README.md
+925 silly gunzTarPerm modified mode [ 'README.md', 436, 438 ]
+926 silly gunzTarPerm extractEntry include_dirs.js
+927 silly gunzTarPerm modified mode [ 'include_dirs.js', 436, 438 ]
+928 silly gunzTarPerm extractEntry LICENSE.md
+929 silly gunzTarPerm modified mode [ 'LICENSE.md', 436, 438 ]
+930 silly gunzTarPerm extractEntry .dntrc
+931 silly gunzTarPerm modified mode [ '.dntrc', 436, 438 ]
+932 silly gunzTarPerm extractEntry appveyor.yml
+933 silly gunzTarPerm modified mode [ 'appveyor.yml', 436, 438 ]
+934 silly gunzTarPerm extractEntry nan.h
+935 silly gunzTarPerm modified mode [ 'nan.h', 436, 438 ]
+936 silly gunzTarPerm extractEntry nan_implementation_12_inl.h
+937 silly gunzTarPerm modified mode [ 'nan_implementation_12_inl.h', 436, 438 ]
+938 silly gunzTarPerm extractEntry nan_implementation_pre_12_inl.h
+939 silly gunzTarPerm modified mode [ 'nan_implementation_pre_12_inl.h', 436, 438 ]
+940 silly gunzTarPerm extractEntry nan_new.h
+941 silly gunzTarPerm modified mode [ 'nan_new.h', 436, 438 ]
+942 silly gunzTarPerm extractEntry nan_string_bytes.h
+943 silly gunzTarPerm modified mode [ 'nan_string_bytes.h', 436, 438 ]
+944 silly gunzTarPerm extractEntry CHANGELOG.md
+945 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 436, 438 ]
+946 silly gunzTarPerm extractEntry tools/node_modules/commander/package.json
+947 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/package.json', 436, 438 ]
+948 silly gunzTarPerm extractEntry tools/node_modules/commander/LICENSE
+949 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/LICENSE', 436, 438 ]
+950 silly gunzTarPerm extractEntry tools/node_modules/commander/index.js
+951 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/index.js', 436, 438 ]
+952 verbose write writing to C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\bindings\package.json
+953 silly gunzTarPerm extractEntry tools/node_modules/commander/History.md
+954 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/History.md', 436, 438 ]
+955 info preinstall bindings@1.2.1
+956 verbose readDependencies loading dependencies from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\bindings\package.json
+957 verbose readDependencies loading dependencies from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\bindings\package.json
+958 silly gunzTarPerm extractEntry tools/node_modules/commander/Readme.md
+959 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/Readme.md', 436, 438 ]
+960 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/package.json
+961 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/package.json',
+961 silly gunzTarPerm   436,
+961 silly gunzTarPerm   438 ]
+962 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/.npmignore
+963 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/.npmignore',
+963 silly gunzTarPerm   436,
+963 silly gunzTarPerm   438 ]
+964 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/README.md
+965 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/README.md',
+965 silly gunzTarPerm   436,
+965 silly gunzTarPerm   438 ]
+966 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/LICENSE
+967 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/LICENSE',
+967 silly gunzTarPerm   436,
+967 silly gunzTarPerm   438 ]
+968 silly install resolved []
+969 verbose about to build C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\bindings
+970 info build C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\bindings
+971 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/index.js
+972 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/index.js',
+972 silly gunzTarPerm   436,
+972 silly gunzTarPerm   438 ]
+973 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/.travis.yml
+974 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/.travis.yml',
+974 silly gunzTarPerm   436,
+974 silly gunzTarPerm   438 ]
+975 info linkStuff bindings@1.2.1
+976 silly linkStuff bindings@1.2.1 has C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules as its parent node_modules
+977 verbose linkBins bindings@1.2.1
+978 verbose linkMans bindings@1.2.1
+979 verbose rebuildBundles bindings@1.2.1
+980 info install bindings@1.2.1
+981 info postinstall bindings@1.2.1
+982 silly gunzTarPerm extractEntry tools/node_modules/glob/package.json
+983 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/package.json', 436, 438 ]
+984 silly gunzTarPerm extractEntry tools/node_modules/glob/README.md
+985 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/README.md', 436, 438 ]
+986 verbose unlock done using C:\Users\max\AppData\Roaming\npm-cache\_locks\bindings-a3c5106cb84c186e.lock for C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\bindings
+987 silly gunzTarPerm extractEntry tools/node_modules/glob/LICENSE
+988 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/LICENSE', 436, 438 ]
+989 silly gunzTarPerm extractEntry tools/node_modules/glob/common.js
+990 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/common.js', 436, 438 ]
+991 silly gunzTarPerm extractEntry tools/node_modules/glob/glob.js
+992 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/glob.js', 436, 438 ]
+993 silly gunzTarPerm extractEntry tools/node_modules/glob/sync.js
+994 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/sync.js', 436, 438 ]
+995 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/package.json
+996 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/package.json',
+996 silly gunzTarPerm   436,
+996 silly gunzTarPerm   438 ]
+997 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/README.md
+998 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/README.md',
+998 silly gunzTarPerm   436,
+998 silly gunzTarPerm   438 ]
+999 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/LICENSE
+1000 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/LICENSE',
+1000 silly gunzTarPerm   436,
+1000 silly gunzTarPerm   438 ]
+1001 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/inflight.js
+1002 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/inflight.js',
+1002 silly gunzTarPerm   436,
+1002 silly gunzTarPerm   438 ]
+1003 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/test.js
+1004 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/test.js',
+1004 silly gunzTarPerm   436,
+1004 silly gunzTarPerm   438 ]
+1005 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/.eslintrc
+1006 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/.eslintrc',
+1006 silly gunzTarPerm   436,
+1006 silly gunzTarPerm   438 ]
+1007 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/package.json
+1008 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/package.json',
+1008 silly gunzTarPerm   436,
+1008 silly gunzTarPerm   438 ]
+1009 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/README.md
+1010 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/README.md',
+1010 silly gunzTarPerm   436,
+1010 silly gunzTarPerm   438 ]
+1011 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/LICENSE
+1012 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/LICENSE',
+1012 silly gunzTarPerm   436,
+1012 silly gunzTarPerm   438 ]
+1013 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/wrappy.js
+1014 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/wrappy.js',
+1014 silly gunzTarPerm   436,
+1014 silly gunzTarPerm   438 ]
+1015 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/test/basic.js
+1016 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/test/basic.js',
+1016 silly gunzTarPerm   436,
+1016 silly gunzTarPerm   438 ]
+1017 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/package.json
+1018 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/package.json',
+1018 silly gunzTarPerm   436,
+1018 silly gunzTarPerm   438 ]
+1019 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/README.md
+1020 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/README.md',
+1020 silly gunzTarPerm   436,
+1020 silly gunzTarPerm   438 ]
+1021 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/LICENSE
+1022 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/LICENSE',
+1022 silly gunzTarPerm   436,
+1022 silly gunzTarPerm   438 ]
+1023 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/inherits.js
+1024 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/inherits.js',
+1024 silly gunzTarPerm   436,
+1024 silly gunzTarPerm   438 ]
+1025 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/inherits_browser.js
+1026 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/inherits_browser.js',
+1026 silly gunzTarPerm   436,
+1026 silly gunzTarPerm   438 ]
+1027 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/test.js
+1028 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/test.js',
+1028 silly gunzTarPerm   436,
+1028 silly gunzTarPerm   438 ]
+1029 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/package.json
+1030 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/package.json',
+1030 silly gunzTarPerm   436,
+1030 silly gunzTarPerm   438 ]
+1031 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/README.md
+1032 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/README.md',
+1032 silly gunzTarPerm   436,
+1032 silly gunzTarPerm   438 ]
+1033 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/LICENSE
+1034 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/LICENSE',
+1034 silly gunzTarPerm   436,
+1034 silly gunzTarPerm   438 ]
+1035 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/browser.js
+1036 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/browser.js',
+1036 silly gunzTarPerm   436,
+1036 silly gunzTarPerm   438 ]
+1037 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/minimatch.js
+1038 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/minimatch.js',
+1038 silly gunzTarPerm   436,
+1038 silly gunzTarPerm   438 ]
+1039 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/package.json
+1040 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/package.json',
+1040 silly gunzTarPerm   436,
+1040 silly gunzTarPerm   438 ]
+1041 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.npmignore
+1042 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.npmignore',
+1042 silly gunzTarPerm   436,
+1042 silly gunzTarPerm   438 ]
+1043 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/README.md
+1044 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/README.md',
+1044 silly gunzTarPerm   436,
+1044 silly gunzTarPerm   438 ]
+1045 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/example.js
+1046 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/example.js',
+1046 silly gunzTarPerm   436,
+1046 silly gunzTarPerm   438 ]
+1047 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/index.js
+1048 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/index.js',
+1048 silly gunzTarPerm   436,
+1048 silly gunzTarPerm   438 ]
+1049 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.travis.yml
+1050 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.travis.yml',
+1050 silly gunzTarPerm   436,
+1050 silly gunzTarPerm   438 ]
+1051 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-comparison.js
+1052 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-comparison.js',
+1052 silly gunzTarPerm   436,
+1052 silly gunzTarPerm   438 ]
+1053 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/same-type.js
+1054 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/same-type.js',
+1054 silly gunzTarPerm   436,
+1054 silly gunzTarPerm   438 ]
+1055 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/dollar.js
+1056 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/dollar.js',
+1056 silly gunzTarPerm   436,
+1056 silly gunzTarPerm   438 ]
+1057 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/empty-option.js
+1058 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/empty-option.js',
+1058 silly gunzTarPerm   436,
+1058 silly gunzTarPerm   438 ]
+1059 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/pad.js
+1060 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/pad.js',
+1060 silly gunzTarPerm   436,
+1060 silly gunzTarPerm   438 ]
+1061 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/order.js
+1062 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/order.js',
+1062 silly gunzTarPerm   436,
+1062 silly gunzTarPerm   438 ]
+1063 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/nested.js
+1064 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/nested.js',
+1064 silly gunzTarPerm   436,
+1064 silly gunzTarPerm   438 ]
+1065 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/sequence.js
+1066 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/sequence.js',
+1066 silly gunzTarPerm   436,
+1066 silly gunzTarPerm   438 ]
+1067 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/negative-increment.js
+1068 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/negative-increment.js',
+1068 silly gunzTarPerm   436,
+1068 silly gunzTarPerm   438 ]
+1069 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-results.txt
+1070 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-results.txt',
+1070 silly gunzTarPerm   436,
+1070 silly gunzTarPerm   438 ]
+1071 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/generate.sh
+1072 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/generate.sh',
+1072 silly gunzTarPerm   436,
+1072 silly gunzTarPerm   438 ]
+1073 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/cases.txt
+1074 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/cases.txt',
+1074 silly gunzTarPerm   436,
+1074 silly gunzTarPerm   438 ]
+1075 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json
+1076 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json',
+1076 silly gunzTarPerm   436,
+1076 silly gunzTarPerm   438 ]
+1077 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.npmignore
+1078 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.npmignore',
+1078 silly gunzTarPerm   436,
+1078 silly gunzTarPerm   438 ]
+1079 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/README.md
+1080 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/README.md',
+1080 silly gunzTarPerm   436,
+1080 silly gunzTarPerm   438 ]
+1081 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/example.js
+1082 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/example.js',
+1082 silly gunzTarPerm   436,
+1082 silly gunzTarPerm   438 ]
+1083 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/index.js
+1084 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/index.js',
+1084 silly gunzTarPerm   436,
+1084 silly gunzTarPerm   438 ]
+1085 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.travis.yml
+1086 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.travis.yml',
+1086 silly gunzTarPerm   436,
+1086 silly gunzTarPerm   438 ]
+1087 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/Makefile
+1088 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/Makefile',
+1088 silly gunzTarPerm   436,
+1088 silly gunzTarPerm   438 ]
+1089 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/test/balanced.js
+1090 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/test/balanced.js',
+1090 silly gunzTarPerm   436,
+1090 silly gunzTarPerm   438 ]
+1091 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json
+1092 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json',
+1092 silly gunzTarPerm   436,
+1092 silly gunzTarPerm   438 ]
+1093 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/LICENSE
+1094 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/LICENSE',
+1094 silly gunzTarPerm   436,
+1094 silly gunzTarPerm   438 ]
+1095 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/index.js
+1096 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/index.js',
+1096 silly gunzTarPerm   436,
+1096 silly gunzTarPerm   438 ]
+1097 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/.travis.yml
+1098 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/.travis.yml',
+1098 silly gunzTarPerm   436,
+1098 silly gunzTarPerm   438 ]
+1099 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/README.markdown
+1100 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/README.markdown',
+1100 silly gunzTarPerm   436,
+1100 silly gunzTarPerm   438 ]
+1101 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/example/map.js
+1102 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/example/map.js',
+1102 silly gunzTarPerm   436,
+1102 silly gunzTarPerm   438 ]
+1103 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/test/map.js
+1104 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/test/map.js',
+1104 silly gunzTarPerm   436,
+1104 silly gunzTarPerm   438 ]
+1105 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/package.json
+1106 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/package.json',
+1106 silly gunzTarPerm   436,
+1106 silly gunzTarPerm   438 ]
+1107 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/README.md
+1108 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/README.md',
+1108 silly gunzTarPerm   436,
+1108 silly gunzTarPerm   438 ]
+1109 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/LICENSE
+1110 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/LICENSE', 436, 438 ]
+1111 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/once.js
+1112 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/once.js', 436, 438 ]
+1113 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/test/once.js
+1114 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/test/once.js',
+1114 silly gunzTarPerm   436,
+1114 silly gunzTarPerm   438 ]
+1115 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/node_modules/wrappy/package.json
+1116 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/node_modules/wrappy/package.json',
+1116 silly gunzTarPerm   436,
+1116 silly gunzTarPerm   438 ]
+1117 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/node_modules/wrappy/README.md
+1118 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/node_modules/wrappy/README.md',
+1118 silly gunzTarPerm   436,
+1118 silly gunzTarPerm   438 ]
+1119 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/node_modules/wrappy/LICENSE
+1120 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/node_modules/wrappy/LICENSE',
+1120 silly gunzTarPerm   436,
+1120 silly gunzTarPerm   438 ]
+1121 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/node_modules/wrappy/wrappy.js
+1122 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/node_modules/wrappy/wrappy.js',
+1122 silly gunzTarPerm   436,
+1122 silly gunzTarPerm   438 ]
+1123 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/node_modules/wrappy/test/basic.js
+1124 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/node_modules/wrappy/test/basic.js',
+1124 silly gunzTarPerm   436,
+1124 silly gunzTarPerm   438 ]
+1125 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/path-is-absolute/package.json
+1126 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/path-is-absolute/package.json',
+1126 silly gunzTarPerm   436,
+1126 silly gunzTarPerm   438 ]
+1127 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/path-is-absolute/index.js
+1128 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/path-is-absolute/index.js',
+1128 silly gunzTarPerm   436,
+1128 silly gunzTarPerm   438 ]
+1129 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/path-is-absolute/license
+1130 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/path-is-absolute/license',
+1130 silly gunzTarPerm   436,
+1130 silly gunzTarPerm   438 ]
+1131 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/path-is-absolute/readme.md
+1132 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/path-is-absolute/readme.md',
+1132 silly gunzTarPerm   436,
+1132 silly gunzTarPerm   438 ]
+1133 verbose write writing to C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\nan\package.json
+1134 info preinstall nan@1.9.0
+1135 verbose readDependencies loading dependencies from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\nan\package.json
+1136 verbose readDependencies loading dependencies from C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\nan\package.json
+1137 silly install resolved []
+1138 verbose about to build C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\nan
+1139 info build C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\nan
+1140 info linkStuff nan@1.9.0
+1141 silly linkStuff nan@1.9.0 has C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules as its parent node_modules
+1142 verbose linkBins nan@1.9.0
+1143 verbose linkMans nan@1.9.0
+1144 verbose rebuildBundles nan@1.9.0
+1145 info install nan@1.9.0
+1146 info postinstall nan@1.9.0
+1147 verbose unlock done using C:\Users\max\AppData\Roaming\npm-cache\_locks\nan-f976568c813322f2.lock for C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh\node_modules\nan
+1148 verbose about to build C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh
+1149 info build C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh
+1150 info linkStuff ssh@1.8.0
+1151 silly linkStuff ssh@1.8.0 has C:\Users\max\Desktop\Hackthon-Team-3\node_modules as its parent node_modules
+1152 verbose linkBins ssh@1.8.0
+1153 verbose linkMans ssh@1.8.0
+1154 verbose rebuildBundles ssh@1.8.0
+1155 verbose rebuildBundles [ 'bindings', 'nan' ]
+1156 info install ssh@1.8.0
+1157 verbose unsafe-perm in lifecycle true
+1158 info ssh@1.8.0 Failed to exec install script
+1159 verbose unlock done using C:\Users\max\AppData\Roaming\npm-cache\_locks\ssh-4698afec5354cd3a.lock for C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh
+1160 verbose stack Error: ssh@1.8.0 install: `node-gyp rebuild`
+1160 verbose stack Exit status 1
+1160 verbose stack     at EventEmitter.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\utils\lifecycle.js:217:16)
+1160 verbose stack     at emitTwo (events.js:87:13)
+1160 verbose stack     at EventEmitter.emit (events.js:172:7)
+1160 verbose stack     at ChildProcess.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\utils\spawn.js:24:14)
+1160 verbose stack     at emitTwo (events.js:87:13)
+1160 verbose stack     at ChildProcess.emit (events.js:172:7)
+1160 verbose stack     at maybeClose (internal/child_process.js:827:16)
+1160 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)
+1161 verbose pkgid ssh@1.8.0
+1162 verbose cwd C:\Users\max\Desktop\Hackthon-Team-3
+1163 error Windows_NT 10.0.10586
+1164 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "ssh"
+1165 error node v4.4.7
+1166 error npm  v2.15.8
+1167 error code ELIFECYCLE
+1168 error ssh@1.8.0 install: `node-gyp rebuild`
+1168 error Exit status 1
+1169 error Failed at the ssh@1.8.0 install script 'node-gyp rebuild'.
+1169 error This is most likely a problem with the ssh package,
+1169 error not with npm itself.
+1169 error Tell the author that this fails on your system:
+1169 error     node-gyp rebuild
+1169 error You can get information on how to open an issue for this project with:
+1169 error     npm bugs ssh
+1169 error Or if that isn't available, you can get their info via:
+1169 error
+1169 error     npm owner ls ssh
+1169 error There is likely additional logging output above.
+1170 verbose exit [ 1, true ]
+1171 verbose unbuild node_modules\ssh
+1172 info preuninstall ssh@1.8.0
+1173 info uninstall ssh@1.8.0
+1174 verbose unbuild rmStuff ssh@1.8.0 from C:\Users\max\Desktop\Hackthon-Team-3\node_modules
+1175 info postuninstall ssh@1.8.0
+1176 silly gentlyRm C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh is being purged from base C:\Users\max\Desktop\Hackthon-Team-3
+1177 verbose gentlyRm don't care about contents; nuking C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh
+1178 silly vacuum-fs purging C:\Users\max\Desktop\Hackthon-Team-3\node_modules\ssh
+1179 silly vacuum-fs quitting because other entries in C:\Users\max\Desktop\Hackthon-Team-3\node_modules
